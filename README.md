@@ -21,6 +21,6 @@ The overall procedure is described as below.
 7. Perform the selected action
 8. move to next state
 9. register this state into Q(s,) if it's new
-10 Update Q-table (SARSA) -> go back to 4.
-11 If reached the num. of episodes, the latest Q-table becomes the optimal Q.
-12 animate the game play.
+10. Update Q-table (SARSA) -> go back to 4.
+11. If reached the num. of episodes, the latest Q-table becomes the optimal Q.
+12. animate the game play.
